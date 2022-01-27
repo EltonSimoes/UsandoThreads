@@ -10,3 +10,9 @@ http://pt.wikipedia.org/wiki/Thread_(ci%C3%AAncia_da_computa%C3%A7%C3%A3o)
 "Uma Thread é Um fluxo de controle sequencial isolado dentro de um programa"
 Como um programa sequencial qualquer, um thread tem um começo, um fim, e uma seqüência de comandos. Entretanto, um thread não é um programa, não roda sozinho, roda dentro de um programa.
 Threads permitem que um programa simples possa executar várias tarefas diferentes ao mesmo tempo, independentemente umas das outras. Programas multi-threaded são programas que contém vários threads, executando tarefas distintas, ao mesmo tempo.
+
+Métodos  	  Descrição
+Start -	Faz com que uma thread seja agendado para execução.
+Lock -	Bloqueia os recursos até que a thread que o esta usando acabe de processá-lo.
+Join -	Bloqueia o segmento de chamada até que um thread seja encerrado.
+Sleep -	Bloqueia o corrente thread pelo número especificado de milissegundos
