@@ -1,0 +1,16 @@
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads\bin\Debug\net5.0\UsandoThreads.exe
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads\bin\Debug\net5.0\UsandoThreads.deps.json
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads\bin\Debug\net5.0\UsandoThreads.runtimeconfig.json
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads\bin\Debug\net5.0\UsandoThreads.runtimeconfig.dev.json
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads\bin\Debug\net5.0\UsandoThreads.dll
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads\bin\Debug\net5.0\ref\UsandoThreads.dll
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads\bin\Debug\net5.0\UsandoThreads.pdb
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads\obj\Debug\net5.0\UsandoThreads.csproj.AssemblyReference.cache
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads\obj\Debug\net5.0\UsandoThreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads\obj\Debug\net5.0\UsandoThreads.AssemblyInfoInputs.cache
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads\obj\Debug\net5.0\UsandoThreads.AssemblyInfo.cs
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads\obj\Debug\net5.0\UsandoThreads.csproj.CoreCompileInputs.cache
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads\obj\Debug\net5.0\UsandoThreads.dll
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads\obj\Debug\net5.0\ref\UsandoThreads.dll
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads\obj\Debug\net5.0\UsandoThreads.pdb
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads\obj\Debug\net5.0\UsandoThreads.genruntimeconfig.cache
