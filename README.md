@@ -13,6 +13,11 @@ Threads permitem que um programa simples possa executar várias tarefas diferent
 
 Métodos  	  Descrição
 Start -	Faz com que uma thread seja agendado para execução.
+
 Lock -	Bloqueia os recursos até que a thread que o esta usando acabe de processá-lo.
+
 Join -	Bloqueia o segmento de chamada até que um thread seja encerrado.
+
 Sleep -	Bloqueia o corrente thread pelo número especificado de milissegundos
+
+
