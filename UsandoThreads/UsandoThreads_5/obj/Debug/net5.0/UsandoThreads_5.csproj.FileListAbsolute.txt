@@ -1,0 +1,16 @@
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads_5\bin\Debug\net5.0\UsandoThreads_5.exe
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads_5\bin\Debug\net5.0\UsandoThreads_5.deps.json
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads_5\bin\Debug\net5.0\UsandoThreads_5.runtimeconfig.json
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads_5\bin\Debug\net5.0\UsandoThreads_5.runtimeconfig.dev.json
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads_5\bin\Debug\net5.0\UsandoThreads_5.dll
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads_5\bin\Debug\net5.0\ref\UsandoThreads_5.dll
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads_5\bin\Debug\net5.0\UsandoThreads_5.pdb
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads_5\obj\Debug\net5.0\UsandoThreads_5.csproj.AssemblyReference.cache
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads_5\obj\Debug\net5.0\UsandoThreads_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads_5\obj\Debug\net5.0\UsandoThreads_5.AssemblyInfoInputs.cache
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads_5\obj\Debug\net5.0\UsandoThreads_5.AssemblyInfo.cs
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads_5\obj\Debug\net5.0\UsandoThreads_5.csproj.CoreCompileInputs.cache
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads_5\obj\Debug\net5.0\UsandoThreads_5.dll
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads_5\obj\Debug\net5.0\ref\UsandoThreads_5.dll
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads_5\obj\Debug\net5.0\UsandoThreads_5.pdb
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\UsandoThreads_5\obj\Debug\net5.0\UsandoThreads_5.genruntimeconfig.cache
