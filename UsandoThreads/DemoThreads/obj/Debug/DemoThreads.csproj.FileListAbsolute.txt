@@ -1,0 +1,10 @@
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\DemoThreads\bin\Debug\DemoThreads.exe.config
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\DemoThreads\bin\Debug\DemoThreads.exe
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\DemoThreads\bin\Debug\DemoThreads.pdb
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\DemoThreads\obj\Debug\DemoThreads.csproj.AssemblyReference.cache
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\DemoThreads\obj\Debug\DemoThreads.Properties.Resources.resources
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\DemoThreads\obj\Debug\DemoThreads.csproj.GenerateResource.cache
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\DemoThreads\obj\Debug\DemoThreads.csproj.CoreCompileInputs.cache
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\DemoThreads\obj\Debug\DemoThreads.exe
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\DemoThreads\obj\Debug\DemoThreads.pdb
+C:\Users\eltoncosta.MATUR\Documents\Outros\UsandoThreads\UsandoThreads\DemoThreads\obj\Debug\DemoThreads.Form1.resources
